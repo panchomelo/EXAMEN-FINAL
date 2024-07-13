@@ -1,0 +1,42 @@
+[
+    {
+        "nombre_completo": "Juan Pérez",
+        "sueldo": ""
+    },
+    {
+        "nombre_completo": "María García",
+        "sueldo": ""   
+    },
+    {
+        "nombre_completo": "Carlos Lopez",
+        "sueldo": "" 
+    },
+    {
+        "nombre_completo": "Ana Martinez",
+        "sueldo": "" 
+    },
+    {
+        "nombre_completo": "Pedro Rodriguez",
+        "sueldo": "" 
+    },
+    {
+        "nombre_completo": "Laura Hernandez",
+        "sueldo": "" 
+    },
+    {
+        "nombre_completo": "Miguel Sanchez",
+        "sueldo": "" 
+    },
+    {
+        "nombre_completo": "Isabel Gomez",
+        "sueldo": "" 
+    },
+    {
+        "nombre_completo": "Francisco Diaz",
+        "sueldo": "" 
+    },
+    {
+        "nombre_completo": "Elena Fernandez",
+        "sueldo": "" 
+    }
+]
